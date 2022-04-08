@@ -21,4 +21,5 @@ Serial.print("Humidité : ");
 Serial.println(h);
 Serial.print("Température : ");
 Serial.println(t);
+delay(5000)
 }
