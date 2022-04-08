@@ -6,6 +6,5 @@ pour connexion wifi :
 char ssid[] = "SNIR_WIFITP_20";        
 char pass[] = "SNIRbaggio20";
 
-nom de cate : wemos
+ignorer le fihcier "test_wifi.ino" "test_wifi.ino.ino" est le bon
 
-generic esp8266 module
